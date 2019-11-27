@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479301287686",
+    "firebase_url": "https://egci428-json-inclass-pae.firebaseio.com",
+    "project_id": "egci428-json-inclass-pae",
+    "storage_bucket": "egci428-json-inclass-pae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479301287686:android:d3f25f205e83ea9d25e887",
+        "android_client_info": {
+          "package_name": "com.example.project_personaldoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479301287686-9acum69fji32eqdec980s6612jc6b3em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQlYhT2D_dHadbl2-SkPx7KVrM_Wsjm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479301287686-9acum69fji32eqdec980s6612jc6b3em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
